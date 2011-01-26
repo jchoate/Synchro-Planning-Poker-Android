@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SynchroPlanningPoker</string>
+    <string name="server_address">Synchro Planning Poker Server Address:</string>
+    <string name="user_name">User Name:</string>
+    <string name="estimate">Your Estimate?</string>
+    <string name="submit">Submit</string>
+    <string-array name="point_array">
+    	<item>0</item>
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    	<item>5</item>
+    	<item>8</item>
+    	<item>13</item>
+    	<item>20</item>
+    	<item>40</item>
+    	<item>100</item>
+    	<item>Infinity</item>
+    	<item>Unknown</item>
+    	<item>Bio</item>
+    	<item>Coffee</item>    	
+    </string-array>
+</resources>
