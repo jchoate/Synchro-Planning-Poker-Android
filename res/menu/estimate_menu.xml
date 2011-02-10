@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reveal_estimates"
+          android:title="@string/reveal" />
+    <item android:id="@+id/reset_estimates"
+          android:title="@string/reset" />
+</menu>
+

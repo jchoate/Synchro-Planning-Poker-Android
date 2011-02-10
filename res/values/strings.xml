@@ -21,4 +21,6 @@
     	<item>Bio</item>
     	<item>Coffee</item>    	
     </string-array>
+    <string name="reveal">Reveal Estimates</string>
+    <string name="reset">Reset Estimates</string>
 </resources>
